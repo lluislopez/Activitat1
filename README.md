@@ -1,3 +1,3 @@
 # Activitat1
-#2 Activitat
-** siiii **
+## Activitat
+*siiii*
